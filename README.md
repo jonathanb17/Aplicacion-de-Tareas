@@ -1,24 +1,2 @@
-# tareas_vue
+![imagenvuejsgithub](https://user-images.githubusercontent.com/27843359/88993769-36e74700-d2bd-11ea-8e40-a7e33355948c.jpg)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
